@@ -12,7 +12,7 @@ Here's what's required to create a RESTful API service from an existing database
 
 *That's it.* ``sandman`` will then do the following:
 
-* Connect to your database and introspect it's contents
+* Connect to your database and introspect its contents
 * Create and launch a RESTful API service
 * Create an HTML admin interface
 * *Open your browser to the admin interface*
